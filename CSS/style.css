@@ -1,0 +1,22 @@
+body{
+    width: 200px;
+    height:40px;
+    background-image: url('theme.webp');
+    background-size: 100%;
+    background-repeat: no-repeat;
+    color:whitesmoke;
+    text-align: center;
+}
+
+p{
+    text-align: center;
+    font-size: 15px;
+}
+
+#message{
+    text-align:center;
+    margin-top: 0.5em;
+    font-size:18px;
+    font-family:'Courier New', Courier, monospace;
+    font-weight: bold;
+}

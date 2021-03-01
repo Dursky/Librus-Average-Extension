@@ -1,0 +1,10 @@
+{
+    "name": "Librus Average",
+    "version": "0.1",
+    "description": "Extension for calculate average of grades",
+    "permissions": ["activeTab", "declarativeContent", "storage","tabs", "<all_urls>"],
+    "browser_action": {
+        "default_popup": "interface.html"
+       },
+    "manifest_version": 2
+  }
